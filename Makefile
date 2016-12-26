@@ -7,3 +7,4 @@ all:
 	make -C ./lib
 	make -C ./fileio
 	make -C ./proc
+	make -C ./users
