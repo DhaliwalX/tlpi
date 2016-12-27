@@ -8,3 +8,4 @@ all:
 	make -C ./fileio
 	make -C ./proc
 	make -C ./users
+	make -C ./time
