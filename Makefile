@@ -14,3 +14,4 @@ all:
 	make -C users
 	make -C time
 	make -C async
+	make -C syslim
